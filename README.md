@@ -1,5 +1,6 @@
 # ParodyBank
 
+!!! THE MAIN BRANCH WILL HAVE V5 RTM BUILD ONLY (unless a good pr fixes v6 ofc)!!!
 This is a parody of a bank account program, usually seen with real banking websites. 
 this tries to imitate them, with a purely python program, with importing shelves, which's built into python.
 this can also be real if the destination of the input values are changed, from shelves to real servers, if doable.
